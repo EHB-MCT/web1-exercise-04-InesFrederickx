@@ -1,1 +1,22 @@
-/* nothing here */
+h1{
+    color: #5f6565;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+body{
+    background-color: #f9f9f9;
+    margin: 100px 615px;
+}
+
+a{
+    color: #d77f74;
+    text-decoration: none;
+    text-align: left;
+}
+
+p{
+    color: #5f6565;
+    font-family: 'Lora', serif;
+    text-align: left;
+}
